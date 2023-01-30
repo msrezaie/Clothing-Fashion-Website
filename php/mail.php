@@ -1,6 +1,7 @@
 <?php
 if(isset($_POST['submit'])){
-    $to = "info@ayatclothing.com";
+    /* redacted */
+    $to = "";
     $from = $_POST['email'];
     $name = $_POST['name'];
     $subject = "ayatclothing.com Client Form Submission";
