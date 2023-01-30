@@ -7,7 +7,7 @@ This is a static website built for a hijab fashion clothing store which was loca
 - Clean and modern design
 - Responsive layout for most screen sizes
 - Built with HTML, CSS, JavaScript, PHP, and Bootstrap
-- Features product catalog, a blog page featuring news related to the business
+- Features product catalog, a blog page featuring news related to the business, and a contact form
 
 
 ## Preview
