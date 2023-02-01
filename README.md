@@ -16,7 +16,7 @@ A static website built for an Afghan startup Hijab fashion clothing store (no lo
 <img width="800" src="https://github.com/msrezaie/Clothing-Fashion-Website/blob/main/img/ayat-landing.jpg"/>
 
 ### Designs Page:
-<img width="800" src="https://github.com/msrezaie/Clothing-Fashion-Website/blob/main/img/ayat-design.jpg"/>
+<img width="800" src="https://github.com/msrezaie/Clothing-Fashion-Website/blob/main/img/ayat-designs.jpg"/>
 
 ### About Page:
 <img width="800" src="https://github.com/msrezaie/Clothing-Fashion-Website/blob/main/img/ayat-about.jpg"/>
