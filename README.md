@@ -12,9 +12,19 @@ This is a static website built for a hijab fashion clothing store which was loca
 
 ## Preview
 
-Insert gif or link to demo
+### Landing Page:
+<img width="800" src=""/>
+
+### Designs Page:
+<img width="800" src=""/>
+
+### Designs Page:
+<img width="800" src=""/>
 
 
 ## Getting Started
 
-The website was built under a freelancing contract, and is only published here for viewing purposes. All copy and reusability of the project code and content is restricted.
+The website was built under a freelancing contract, and is only published here for viewing purposes. All copy and reusability of the project code and content is restricted. Access is only available for preview.
+
+### Link:
+https://msrezaie.github.io/Clothing-Fashion-Website/
