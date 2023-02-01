@@ -13,13 +13,13 @@ A static website built for an Afghan startup Hijab fashion clothing store (no lo
 ## Preview
 
 ### Landing Page:
-<img width="800" src="https://github.com/msrezaie/Clothing-Fashion-Website/img/ayat-landing.jpg"/>
+<img width="800" src=""/>
 
 ### Designs Page:
 <img width="800" src="https://github.com/msrezaie/Clothing-Fashion-Website/img/ayat-designs.jpg"/>
 
 ### About Page:
-<img width="800" src="https://github.com/msrezaie/Clothing-Fashion-Website/img/ayat-about.jpg"/>
+<img width="800" src="https://github.com/msrezaie/Clothing-Fashion-Website/blob/main/img/ayat-about.jpg"/>
 
 
 ## Getting Started
