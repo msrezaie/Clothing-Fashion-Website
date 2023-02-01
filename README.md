@@ -1,6 +1,6 @@
 # AYAT Hijab Fashion Clothing Website
 
-This is a static website built for a hijab fashion clothing store which was located in Afghanistan using HTML, CSS, JavaScript, PHP, and Bootstrap. The website was created as a freelancing project.
+A static website built for an Afghan startup Hijab fashion clothing store (no longer active) which was located in Afghanistan using HTML, CSS, JavaScript, PHP, and Bootstrap. The website was created as a freelancing project.
 
 ## Features
 
@@ -13,13 +13,13 @@ This is a static website built for a hijab fashion clothing store which was loca
 ## Preview
 
 ### Landing Page:
-<img width="800" src=""/>
+<img width="800" src="https://github.com/msrezaie/Clothing-Fashion-Website/img/ayat-landing.jpg"/>
 
 ### Designs Page:
-<img width="800" src=""/>
+<img width="800" src="https://github.com/msrezaie/Clothing-Fashion-Website/img/ayat-designs.jpg"/>
 
-### Designs Page:
-<img width="800" src=""/>
+### About Page:
+<img width="800" src="https://github.com/msrezaie/Clothing-Fashion-Website/img/ayat-about.jpg"/>
 
 
 ## Getting Started
