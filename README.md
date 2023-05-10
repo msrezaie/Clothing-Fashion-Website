@@ -4,10 +4,6 @@ A static website built for an Afghan startup Hijab fashion clothing store (no lo
 
 ## Access
 
-The website was built under a freelancing contract, and is only published here for viewing purposes.
-
-### Link:
-https://msrezaie.github.io/Clothing-Fashion-Website/
 
 ## Features
 
