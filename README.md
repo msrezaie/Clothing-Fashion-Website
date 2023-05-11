@@ -3,7 +3,8 @@
 A static website built for an Afghan startup Hijab fashion clothing store (no longer active) which was located in Afghanistan using HTML, CSS, JavaScript, PHP, and Bootstrap. The website was created as a freelancing project.
 
 ## Access
-
+The website can be accessed with the following link:
+https://msrezaie.github.io/Clothing-Fashion-Website/
 
 ## Features
 
