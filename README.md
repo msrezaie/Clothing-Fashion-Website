@@ -4,7 +4,7 @@ A static website built for an Afghan startup Hijab fashion clothing store (no lo
 
 ## Access
 The website can be accessed with the following link:
-https://msrezaie.github.io/Clothing-Fashion-Website/
+https://ayatclothing.netlify.app/
 
 ## Features
 
